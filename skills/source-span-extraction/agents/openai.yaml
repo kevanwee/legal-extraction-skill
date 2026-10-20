@@ -1,0 +1,3 @@
+interface:
+  display_name: "Source-span extraction"
+  short_description: "Extract fields from legal documents, each bound to its exact source text"
