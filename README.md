@@ -40,9 +40,7 @@ passage was chosen, that a document is complete or authentic, or what a clause m
 
 ## Install
 
-Copy `skills/source-span-extraction` into your project's `.claude/skills/` or `.agents/skills/`,
-or install it with the [legal engineering toolkit](https://github.com/kevanwee/legal-engineering-manifesto)
-launcher, which pins this repository and binds the skill to its `extraction@1` contract.
+Copy `skills/source-span-extraction` into your project's `.claude/skills/` or `.agents/skills/`.
 
 ## Use
 
